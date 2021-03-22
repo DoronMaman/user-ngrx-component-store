@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "users-ngcomponents"
+  "defaultProject": "users-ngcomponents",
+  "cli": {
+    "analytics": "af0f3995-81d7-49dc-a920-f9d76d3092a9"
+  }
 }
